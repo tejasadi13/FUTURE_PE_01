@@ -20,6 +20,7 @@ For this task, the prompts are applied to Dyu Art Cafe to produce:
 - Services page content
 - CTA sections
 - Tone-adapted website copy suitable for a real business website
+- A static website preview showing how the generated copy can look on a real website
 
 ## Prompt Logic
 
@@ -70,7 +71,21 @@ FUTURE_PE_01/
     |-- homepage-copy.md
     |-- services-copy.md
     `-- cta-sections.md
+`-- website-preview/
+    |-- index.html
+    `-- styles.css
 ```
+
+## Website Preview
+
+A static website preview is included in `website-preview/`. It turns the generated homepage, services, and CTA copy into a simple cafe landing page so the final output can be reviewed visually.
+
+To open it locally:
+
+1. Open the `website-preview` folder.
+2. Double-click `index.html`.
+
+This preview is included to make the prompt engineering output easier to understand and present. The main task deliverables remain the structured prompts, generated outputs, and prompt logic documentation.
 
 ## How To Reuse This Prompt System
 
