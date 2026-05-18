@@ -1,4 +1,4 @@
-# AI Website Copy Generator for Local Businesses
+# FUTURE_PE_01 - AI Website Copy Generator for Local Businesses
 
 Future Interns Prompt Engineering Task 1, 2026
 
@@ -58,7 +58,7 @@ ChatGPT was used to design the prompt framework and generate the final website c
 ## Repository Structure
 
 ```text
-prompt-engineering-task-1/
+FUTURE_PE_01/
 |-- README.md
 |-- business-profile.md
 |-- prompts/
