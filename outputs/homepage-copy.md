@@ -2,31 +2,31 @@
 
 ## Headline
 
-Structured Coaching That Helps Students Study Smarter and Prepare with Confidence
+Crack JEE, NEET, UPSC & CAT — Right Here in Hyderabad.
 
 ## Sub-Headline
 
-BrightPath Coaching Centre in Indiranagar supports students with clear concepts, regular practice, doubt-solving, and exam-focused guidance.
+Small batches. Expert faculty. Focused preparation for students who are serious about competitive exams.
 
 ## Intro Section
 
-BrightPath Coaching Centre is built for students who need more than notes and lectures. We help learners understand difficult topics, stay consistent with practice, and approach exams with a clear plan. Whether a student is preparing for school exams, board exams, or entrance foundations, our coaching approach focuses on clarity, discipline, and confidence.
+ElevateIQ Academy helps students prepare for high-pressure exams with structure, clarity, and personal guidance. Our coaching approach combines small batches, expert teaching, mock tests, doubt support, and strategy-led preparation so students can improve with a clear plan.
 
 ## Benefit Points
 
-### Clear Concept-Based Learning
+### Small Batches for Better Attention
 
-Students learn topics step by step, so they can understand the logic behind each concept instead of only memorizing answers.
+Students learn in focused groups where teachers can understand their doubts, weak areas, and preparation pace.
 
-### Regular Practice and Doubt Support
+### Exam-Focused Practice
 
-Practice sessions and doubt-solving help students identify weak areas early and improve with guided support.
+Regular mocks, sectional tests, revision support, and performance reviews help students prepare with discipline.
 
-### Parent-Friendly Progress Focus
+### Mentorship Beyond Lectures
 
-The coaching process is structured to help parents understand how their child is learning, improving, and preparing for exams.
+Students receive guidance on study planning, exam strategy, time management, and confidence-building.
 
 ## Why Choose Us
 
-Choosing a coaching center is not only about classes. It is about finding a learning environment where students feel guided, parents feel informed, and exam preparation feels manageable. BrightPath Coaching Centre combines structured teaching, focused practice, and supportive mentoring to help students build stronger academic confidence.
+Competitive exam preparation is not only about covering the syllabus. It is about learning how to think clearly, practice consistently, and handle pressure. ElevateIQ Academy gives students a focused learning environment with small batches, expert support, and structured preparation for JEE, NEET, UPSC, CAT, and crash-course exam tracks.
 

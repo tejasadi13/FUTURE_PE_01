@@ -4,39 +4,39 @@
 
 ### Headline
 
-Help Your Child Prepare with a Clear Study Plan
+Book Your Free Demo Class
 
 ### Supporting Copy
 
-Talk to BrightPath Coaching Centre and find the right academic support for your child's goals, subjects, and exam needs.
+Experience how ElevateIQ Academy teaches before you decide. Attend a real class, understand the approach, and ask your questions directly.
 
 ### Button Text
 
-Book a Counselling Call
+Book Free Demo
 
-## Services Page CTA
+## Courses Section CTA
 
 ### Headline
 
-Choose the Right Coaching Support
+Find the Right Course for Your Exam Goal
 
 ### Supporting Copy
 
-From academic coaching to exam preparation, our programs are designed to help students learn with structure and confidence.
+Whether you are preparing for JEE, NEET, UPSC, CAT, or a crash course, our team can help you choose the right batch.
 
 ### Button Text
 
-Explore Programs
+Explore Courses
 
 ## Location-Based CTA
 
 ### Headline
 
-Looking for Coaching Classes in Indiranagar?
+Looking for Competitive Exam Coaching in Hyderabad?
 
 ### Supporting Copy
 
-BrightPath Coaching Centre offers structured academic support for students and parents looking for clear, reliable guidance in Bangalore.
+ElevateIQ Academy offers small-batch coaching and exam-focused mentoring for serious aspirants in Hyderabad.
 
 ### Button Text
 
@@ -46,27 +46,27 @@ Get Directions
 
 ### Headline
 
-Learning Feels Easier with the Right Guidance
+Learn with Structure, Practice with Purpose
 
 ### Supporting Copy
 
-Our approach focuses on concept clarity, regular practice, doubt support, and confidence-building for every student.
+Our approach focuses on concept clarity, mock tests, doubt support, and personal mentorship so students can prepare with confidence.
 
 ### Button Text
 
-Speak to Us
+Talk to a Counselor
 
 ## Soft Urgency CTA
 
 ### Headline
 
-Start Before Exam Pressure Builds
+2025–26 Batches Are Filling Fast
 
 ### Supporting Copy
 
-The earlier students build a clear routine, the easier it becomes to revise, practice, and improve steadily.
+We keep batches small so students receive better attention. Check availability before choosing your course.
 
 ### Button Text
 
-Enquire Now
+Check Seat Availability
 

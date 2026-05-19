@@ -2,49 +2,49 @@
 
 ## Basic Details
 
-Business name: BrightPath Coaching Centre  
-Business type: Local coaching and test preparation center  
-Location: Indiranagar, Bangalore  
-Primary service: Academic coaching, test preparation, study planning, and student mentoring  
+Business name: ElevateIQ Academy  
+Business type: Local coaching and test preparation academy  
+Location: Hyderabad, Telangana  
+Primary service: Coaching for JEE, NEET, UPSC, CAT, and crash-course exam preparation  
 
 ## Target Customers
 
-- Class 9 to 12 students who need stronger academic support
-- College students preparing for entrance exams
-- Parents looking for structured coaching and progress updates
-- Students who need better study habits and exam confidence
-- Learners who prefer guided practice instead of self-study alone
+- Class 11 and 12 students preparing for JEE or NEET
+- College students and graduates preparing for UPSC or CAT
+- Working professionals looking for UPSC weekend or weekday batches
+- Parents looking for structured academic support and clear mentoring
+- Students who need small-batch attention and exam-focused practice
 
 ## Customer Needs
 
-- Clear explanation of difficult concepts
-- Structured study plans and regular practice
-- Exam-focused preparation
-- Doubt-solving support
-- Confidence before tests and board exams
-- Trustworthy communication for parents
+- Clear subject explanations
+- Small batches with personal attention
+- Mock tests and regular practice
+- Exam strategy and time management
+- Doubt-solving and mentorship
+- Confidence before competitive exams
 
 ## Brand Personality
 
 - Professional
+- Ambitious
+- Focused
 - Supportive
-- Clear
-- Reliable
-- Encouraging
-- Results-focused
+- Strategic
+- Results-oriented
 
 ## Main Value Proposition
 
-BrightPath Coaching Centre helps students in Indiranagar build stronger concepts, better study habits, and exam confidence through structured coaching and personal guidance.
+ElevateIQ Academy helps serious exam aspirants in Hyderabad prepare for JEE, NEET, UPSC, and CAT through small batches, expert guidance, structured practice, and personal mentorship.
 
 ## Tone Direction
 
-Use professional, supportive, and confidence-building language. The copy should sound trustworthy for parents and motivating for students.
+Use confident, professional, and motivating language. The copy should appeal to both students and parents without making unrealistic guarantees.
 
 ## Website Goals
 
-- Help parents and students quickly understand the coaching center's value
-- Encourage inquiries for classes and admissions
-- Build trust through clarity, structure, and student-focused messaging
-- Present the center as supportive, organized, and exam-ready
+- Help students quickly understand available courses
+- Encourage demo class bookings and inquiries
+- Build trust around small batches and personal mentoring
+- Present the academy as focused, credible, and exam-ready
 

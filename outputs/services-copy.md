@@ -1,87 +1,87 @@
 # Services Page Content
 
-## Academic Coaching
+## JEE Mains + Advanced
 
 ### Description
 
-Build stronger subject understanding with regular coaching designed for school and college students.
+Structured preparation for IIT and NIT aspirants with strong focus on Physics, Chemistry, Mathematics, and problem-solving speed.
 
 ### What Is Included
 
-- Concept-based classroom learning
-- Topic-wise explanations
-- Practice questions and revision support
-- Guidance for difficult chapters
+- Concept-focused teaching
+- Regular problem practice
+- Mock tests and revision support
+- Doubt-solving and performance review
 
-### Why Choose This
+### Who It Is For
 
-Students get a clearer learning path and steady academic support instead of struggling alone with confusing topics.
+Class 11 and 12 students, repeaters, and serious aspirants preparing for JEE Mains and Advanced.
 
-## Board Exam Preparation
+## NEET Coaching
 
 ### Description
 
-Prepare for board exams with a structured study approach, revision plans, and exam-focused practice.
+NCERT-aligned preparation for medical aspirants with focused practice in Biology, Chemistry, and Physics.
 
 ### What Is Included
 
-- Chapter-wise revision
-- Important question practice
+- Chapter-wise concept clarity
+- Full-length mock test practice
+- Revision and handwritten-note support
+- Doubt-solving for weak topics
+
+### Who It Is For
+
+Students preparing for NEET who need structured study support and regular exam practice.
+
+## UPSC Civil Services
+
+### Description
+
+Guided preparation for UPSC aspirants covering foundation concepts, current affairs, prelims practice, and mains-oriented thinking.
+
+### What Is Included
+
+- Prelims and mains preparation support
+- Current affairs discussion
 - Answer-writing guidance
-- Test preparation support
+- Study planning for long-term preparation
 
-### Why Choose This
+### Who It Is For
 
-Board exam preparation becomes easier when students know what to study, how to revise, and how to write better answers.
+Graduates, final-year students, and working professionals preparing for UPSC Civil Services.
 
-## Entrance Exam Foundation
-
-### Description
-
-Start building the concepts and problem-solving habits needed for future competitive exam preparation.
-
-### What Is Included
-
-- Foundation-level concept building
-- Logical and analytical practice
-- Guided problem-solving sessions
-- Study discipline for long-term preparation
-
-### Why Choose This
-
-Early preparation helps students develop confidence, speed, and stronger basics before exam pressure increases.
-
-## Doubt-Solving and Practice Support
+## CAT and MBA Entrance
 
 ### Description
 
-Get focused help on weak areas through practice, corrections, and teacher-guided doubt discussions.
+Focused preparation for CAT and MBA entrance exams covering Quant, VARC, DILR, mocks, and test-taking strategy.
 
 ### What Is Included
 
-- Doubt clarification
-- Practice worksheet support
-- Mistake analysis
-- Personal guidance for improvement areas
+- Quantitative aptitude practice
+- VARC and DILR sessions
+- Full-length mock tests
+- Sectional practice and analysis
 
-### Why Choose This
+### Who It Is For
 
-Students improve faster when they understand where they are making mistakes and how to fix them.
+Students and graduates preparing for CAT, XAT, SNAP, NMAT, and other MBA entrance exams.
 
-## Study Planning and Mentoring
+## Crash Courses
 
 ### Description
 
-Help students stay consistent with study routines, revision targets, and exam preparation habits.
+Short, intensive programs for students who need focused revision, daily practice, and exam-readiness in limited time.
 
 ### What Is Included
 
-- Study planning support
-- Revision schedules
-- Goal-based learning guidance
-- Motivation and mentoring
+- Fast-paced revision
+- Daily or frequent mock practice
+- Important-topic coverage
+- Strategy and doubt support
 
-### Why Choose This
+### Who It Is For
 
-A clear plan helps students reduce stress, stay organized, and prepare with better focus.
+Students preparing close to exam season who need disciplined revision and targeted practice.
 

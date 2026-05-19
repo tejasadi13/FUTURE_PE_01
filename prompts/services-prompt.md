@@ -1,31 +1,31 @@
 # Services Page Prompt
 
-Using the business profile below, generate services page content for a local coaching center website.
+Using the business profile below, generate services page content for a coaching academy website.
 
-Business name: BrightPath Coaching Centre  
-Location: Indiranagar, Bangalore  
-Business type: Local coaching and test preparation center  
-Tone: Professional, supportive, clear, and motivating  
+Business name: ElevateIQ Academy  
+Location: Hyderabad, Telangana  
+Business type: Coaching and test preparation academy  
+Tone: Professional, confident, supportive, and clear  
 
-Create content for these service categories:
+Create content for these course categories:
 
-1. Academic Coaching
-2. Board Exam Preparation
-3. Entrance Exam Foundation
-4. Doubt-Solving and Practice Support
-5. Study Planning and Mentoring
+1. JEE Mains + Advanced
+2. NEET Coaching
+3. UPSC Civil Services
+4. CAT and MBA Entrance
+5. Crash Courses
 
-For each service category, include:
+For each course category, include:
 
-- Service name
+- Course name
 - Short description
 - What is included
-- Why students and parents should choose it
+- Who it is for
 
 Rules:
 
-- Use coaching-center-specific language
+- Use coaching-academy-specific language
 - Keep each section short and easy to scan
 - Write in a way that can be used directly on a real website
-- Do not invent fees, ranks, results, batch timings, or guarantees
+- Do not invent fees, ranks, exact results, batch timings, or guarantees
 
