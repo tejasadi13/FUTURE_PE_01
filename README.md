@@ -4,17 +4,17 @@ Future Interns Prompt Engineering Task 1, 2026
 
 ## Business Chosen
 
-**Dyu Art Cafe, Koramangala, Bangalore**
+**BrightPath Coaching Centre, Indiranagar, Bangalore**
 
-Business type: Local cafe and casual dining space  
-Target audience: Students, working professionals, friends, couples, artists, and visitors looking for a calm cafe experience in Koramangala  
-Tone: Warm, friendly, creative, and simple  
+Business type: Local coaching and test preparation center  
+Target audience: Students, exam aspirants, and parents looking for structured academic support  
+Tone: Professional, supportive, clear, and encouraging  
 
 ## Project Goal
 
 This project designs a reusable prompt framework that generates conversion-focused website copy for local businesses. The prompts are structured so they can be reused for salons, cafes, clinics, coaching centers, agencies, and freelancers by changing the business profile inputs.
 
-For this task, the prompts are applied to Dyu Art Cafe to produce:
+For this task, the prompts are applied to BrightPath Coaching Centre to produce:
 
 - Homepage copy with a clear value proposition
 - Services page content
@@ -35,7 +35,7 @@ The prompt framework uses four layers:
    - Customer pain points
 
 2. **Conversion goal**
-   - Encourage table visits
+   - Encourage class inquiries
    - Increase inquiries
    - Improve trust
    - Make website copy clear and action-oriented
@@ -48,6 +48,7 @@ The prompt framework uses four layers:
 4. **Tone control**
    - Friendly for cafes and salons
    - Professional for clinics and agencies
+   - Supportive and clear for coaching centers
    - Simple, confident, and human across all outputs
 
 ## Tool Used
@@ -67,10 +68,10 @@ FUTURE_PE_01/
 |   |-- homepage-prompt.md
 |   |-- services-prompt.md
 |   `-- cta-prompt.md
-`-- outputs/
-    |-- homepage-copy.md
-    |-- services-copy.md
-    `-- cta-sections.md
+|-- outputs/
+|   |-- homepage-copy.md
+|   |-- services-copy.md
+|   `-- cta-sections.md
 `-- website-preview/
     |-- index.html
     `-- styles.css
@@ -78,7 +79,7 @@ FUTURE_PE_01/
 
 ## Website Preview
 
-A static website preview is included in `website-preview/`. It turns the generated homepage, services, and CTA copy into a simple cafe landing page so the final output can be reviewed visually.
+A static website preview is included in `website-preview/`. It turns the generated homepage, services, and CTA copy into a simple coaching center landing page so the final output can be reviewed visually.
 
 To open it locally:
 
@@ -90,11 +91,11 @@ This preview is included to make the prompt engineering output easier to underst
 ## How To Reuse This Prompt System
 
 1. Open `business-profile.md`.
-2. Replace the cafe details with a new local business.
+2. Replace the coaching center details with a new local business.
 3. Run the master prompt first to define the strategy.
 4. Run the homepage, services, and CTA prompts.
 5. Review the output for accuracy before publishing.
 
 ## Final Output Summary
 
-The generated website copy positions Dyu Art Cafe as a calm, creative cafe in Koramangala where people can enjoy food, conversations, work sessions, and relaxed meetups. The copy avoids generic AI language and focuses on local relevance, clear benefits, and easy action.
+The generated website copy positions BrightPath Coaching Centre as a reliable academic support center in Indiranagar where students can build stronger concepts, better study habits, and exam confidence. The copy avoids fake guarantees and focuses on clarity, parent trust, student motivation, and action-oriented website messaging.

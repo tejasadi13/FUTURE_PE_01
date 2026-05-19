@@ -4,39 +4,39 @@
 
 ### Headline
 
-Plan Your Next Cafe Break at Dyu Art Cafe
+Help Your Child Prepare with a Clear Study Plan
 
 ### Supporting Copy
 
-Step into a calm cafe space in Koramangala for food, drinks, conversations, and easy afternoons.
+Talk to BrightPath Coaching Centre and find the right academic support for your child's goals, subjects, and exam needs.
 
 ### Button Text
 
-Visit Us
+Book a Counselling Call
 
 ## Services Page CTA
 
 ### Headline
 
-Find the Right Cafe Moment for Your Day
+Choose the Right Coaching Support
 
 ### Supporting Copy
 
-Whether you are meeting friends, taking a work break, or enjoying a quiet dessert, Dyu Art Cafe gives you a warm place to settle in.
+From academic coaching to exam preparation, our programs are designed to help students learn with structure and confidence.
 
 ### Button Text
 
-Explore the Cafe
+Explore Programs
 
 ## Location-Based CTA
 
 ### Headline
 
-Looking for a Peaceful Cafe in Koramangala?
+Looking for Coaching Classes in Indiranagar?
 
 ### Supporting Copy
 
-Dyu Art Cafe is a welcoming local spot for people who want good food, creative surroundings, and a relaxed cafe atmosphere in Bangalore.
+BrightPath Coaching Centre offers structured academic support for students and parents looking for clear, reliable guidance in Bangalore.
 
 ### Button Text
 
@@ -46,27 +46,27 @@ Get Directions
 
 ### Headline
 
-Come for the Food. Stay for the Feeling.
+Learning Feels Easier with the Right Guidance
 
 ### Supporting Copy
 
-From casual meetups to quiet pauses, every visit is shaped around comfort, conversation, and a cafe experience that feels personal.
+Our approach focuses on concept clarity, regular practice, doubt support, and confidence-building for every student.
 
 ### Button Text
 
-Plan a Visit
+Speak to Us
 
 ## Soft Urgency CTA
 
 ### Headline
 
-Make Today Feel a Little Slower
+Start Before Exam Pressure Builds
 
 ### Supporting Copy
 
-Take a break from the rush and spend your next free hour at a cafe that gives you space to breathe.
+The earlier students build a clear routine, the easier it becomes to revise, practice, and improve steadily.
 
 ### Button Text
 
-Visit Today
+Enquire Now
 

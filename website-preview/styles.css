@@ -1,10 +1,10 @@
 :root {
   --ink: #25211c;
   --muted: #675f55;
-  --paper: #fffaf1;
-  --cream: #f3eadb;
-  --sage: #66785f;
-  --terracotta: #b8613c;
+  --paper: #f7f9fb;
+  --cream: #e8eef4;
+  --sage: #24515f;
+  --terracotta: #d06b3f;
   --line: rgba(37, 33, 28, 0.14);
   --white: #ffffff;
 }
@@ -80,8 +80,8 @@ a {
   min-height: calc(100vh - 72px);
   padding: clamp(56px, 9vw, 110px) clamp(20px, 5vw, 72px);
   background:
-    linear-gradient(rgba(37, 33, 28, 0.48), rgba(37, 33, 28, 0.58)),
-    url("https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=1800&q=85") center/cover;
+    linear-gradient(rgba(24, 38, 49, 0.55), rgba(24, 38, 49, 0.66)),
+    url("https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1800&q=85") center/cover;
   color: var(--white);
 }
 

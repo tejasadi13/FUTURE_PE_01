@@ -1,31 +1,31 @@
 # Services Page Prompt
 
-Using the business profile below, generate services page content for a local cafe website.
+Using the business profile below, generate services page content for a local coaching center website.
 
-Business name: Dyu Art Cafe  
-Location: Koramangala, Bangalore  
-Business type: Cafe and casual dining space  
-Tone: Friendly, calm, creative, and clear  
+Business name: BrightPath Coaching Centre  
+Location: Indiranagar, Bangalore  
+Business type: Local coaching and test preparation center  
+Tone: Professional, supportive, clear, and motivating  
 
 Create content for these service categories:
 
-1. Cafe Dining
-2. Coffee, Beverages, and Desserts
-3. Casual Meetups
-4. Work Breaks and Reading Time
-5. Creative Cafe Experience
+1. Academic Coaching
+2. Board Exam Preparation
+3. Entrance Exam Foundation
+4. Doubt-Solving and Practice Support
+5. Study Planning and Mentoring
 
 For each service category, include:
 
 - Service name
 - Short description
 - What is included
-- Why customers should choose it
+- Why students and parents should choose it
 
 Rules:
 
-- Use business-specific language
+- Use coaching-center-specific language
 - Keep each section short and easy to scan
 - Write in a way that can be used directly on a real website
-- Do not invent menu prices, discounts, or exact opening hours
+- Do not invent fees, ranks, results, batch timings, or guarantees
 

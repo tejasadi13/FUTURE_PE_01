@@ -4,27 +4,27 @@ You are an expert website copywriter and prompt engineer helping local businesse
 
 Your task is to create clear, conversion-focused website copy for the following business:
 
-Business name: Dyu Art Cafe  
-Business type: Cafe and casual dining space  
-Location: Koramangala, Bangalore  
-Target customers: Students, working professionals, friends, couples, artists, readers, and visitors looking for a calm cafe experience  
-Brand personality: Warm, creative, calm, friendly, local, and welcoming  
-Primary goal: Encourage people to visit the cafe, explore the menu, and choose it for relaxed meetups, conversations, work breaks, and creative afternoons  
+Business name: BrightPath Coaching Centre  
+Business type: Local coaching and test preparation center  
+Location: Indiranagar, Bangalore  
+Target customers: Class 9 to 12 students, college students preparing for entrance exams, and parents looking for structured academic support  
+Brand personality: Professional, supportive, clear, reliable, encouraging, and results-focused  
+Primary goal: Encourage students and parents to inquire about coaching programs, book a counselling call, and choose the center for guided academic support  
 
 Write copy that is:
 
 - Specific to the business and location
+- Clear for both parents and students
 - Benefit-driven
-- Simple and human
-- Ready to publish on a website
-- Friendly without sounding childish
-- Persuasive without sounding pushy
+- Simple and website-ready
+- Professional without sounding cold
+- Motivating without making fake promises
 
 Avoid:
 
 - Generic AI phrases
-- Overused words like "revolutionary" or "world-class"
-- Fake claims, awards, or statistics
+- Unrealistic rank, score, or success guarantees
+- Fake testimonials, awards, or statistics
 - Long paragraphs
 - Complicated language
 

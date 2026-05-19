@@ -1,87 +1,87 @@
 # Services Page Content
 
-## Cafe Dining
+## Academic Coaching
 
 ### Description
 
-Enjoy a relaxed cafe dining experience in Koramangala with food, drinks, and a calm atmosphere made for slow, comfortable visits.
+Build stronger subject understanding with regular coaching designed for school and college students.
 
 ### What Is Included
 
-- Cafe-style food and beverages
-- Comfortable seating for casual visits
-- A warm setting for friends, couples, and small groups
-- A peaceful break from the rush of Bangalore
+- Concept-based classroom learning
+- Topic-wise explanations
+- Practice questions and revision support
+- Guidance for difficult chapters
 
 ### Why Choose This
 
-Choose Dyu Art Cafe when you want a dining experience that feels easy, welcoming, and memorable instead of rushed or crowded.
+Students get a clearer learning path and steady academic support instead of struggling alone with confusing topics.
 
-## Coffee, Beverages, and Desserts
+## Board Exam Preparation
 
 ### Description
 
-Stop by for a refreshing drink, a warm cup, or a dessert that fits your mood.
+Prepare for board exams with a structured study approach, revision plans, and exam-focused practice.
 
 ### What Is Included
 
-- Coffee and cafe beverages
-- Refreshing drinks
-- Dessert options
-- A setting that pairs well with conversations and quiet time
+- Chapter-wise revision
+- Important question practice
+- Answer-writing guidance
+- Test preparation support
 
 ### Why Choose This
 
-Whether you are meeting someone or taking time for yourself, the drinks and desserts make your visit feel complete.
+Board exam preparation becomes easier when students know what to study, how to revise, and how to write better answers.
 
-## Casual Meetups
+## Entrance Exam Foundation
 
 ### Description
 
-Dyu Art Cafe is a comfortable place for friends, dates, small groups, and relaxed catch-ups.
+Start building the concepts and problem-solving habits needed for future competitive exam preparation.
 
 ### What Is Included
 
-- A friendly cafe environment
-- Seating suited for conversations
-- Food and drinks for shared moments
-- A location in Koramangala that is easy to plan around
+- Foundation-level concept building
+- Logical and analytical practice
+- Guided problem-solving sessions
+- Study discipline for long-term preparation
 
 ### Why Choose This
 
-The cafe gives your meetup a calm and thoughtful setting, making it easier to enjoy the people you came with.
+Early preparation helps students develop confidence, speed, and stronger basics before exam pressure increases.
 
-## Work Breaks and Reading Time
+## Doubt-Solving and Practice Support
 
 ### Description
 
-Take a pause from your routine with a cafe setting that supports slow work breaks, reading time, and quiet thinking.
+Get focused help on weak areas through practice, corrections, and teacher-guided doubt discussions.
 
 ### What Is Included
 
-- A calm environment
-- Food and beverages during your break
-- Space to sit, read, reflect, or reset
-- A creative atmosphere that feels different from a regular workspace
+- Doubt clarification
+- Practice worksheet support
+- Mistake analysis
+- Personal guidance for improvement areas
 
 ### Why Choose This
 
-When you need a change of place, Dyu Art Cafe offers a softer and more inspiring setting than a busy office or crowded street.
+Students improve faster when they understand where they are making mistakes and how to fix them.
 
-## Creative Cafe Experience
+## Study Planning and Mentoring
 
 ### Description
 
-Visit a cafe that blends food, comfort, and artistic character into one memorable local experience.
+Help students stay consistent with study routines, revision targets, and exam preparation habits.
 
 ### What Is Included
 
-- A warm visual atmosphere
-- A cafe experience suited for creative visitors
-- Space for relaxed conversations and personal time
-- A local Koramangala identity
+- Study planning support
+- Revision schedules
+- Goal-based learning guidance
+- Motivation and mentoring
 
 ### Why Choose This
 
-Dyu Art Cafe is not only about eating out. It is about enjoying a place that feels calm, creative, and worth coming back to.
+A clear plan helps students reduce stress, stay organized, and prepare with better focus.
 

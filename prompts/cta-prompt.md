@@ -1,11 +1,11 @@
 # CTA Sections Prompt
 
-Using the business profile below, generate CTA sections for a local cafe website.
+Using the business profile below, generate CTA sections for a local coaching center website.
 
-Business name: Dyu Art Cafe  
-Location: Koramangala, Bangalore  
-Audience: Cafe visitors, students, professionals, friends, couples, artists, and readers  
-Tone: Friendly, inviting, simple, and trustworthy  
+Business name: BrightPath Coaching Centre  
+Location: Indiranagar, Bangalore  
+Audience: Students, exam aspirants, and parents  
+Tone: Professional, supportive, clear, and trustworthy  
 
 Create:
 
@@ -24,7 +24,7 @@ For each CTA, include:
 Rules:
 
 - Make the CTAs persuasive but not pushy
-- Use location-based relevance where helpful
-- Avoid fake guarantees, ratings, or unsupported claims
+- Use parent and student needs where helpful
+- Avoid fake guarantees, rank claims, or unsupported results
 - Keep the button text short and action-oriented
 

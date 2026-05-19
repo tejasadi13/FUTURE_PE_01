@@ -2,48 +2,49 @@
 
 ## Basic Details
 
-Business name: Dyu Art Cafe  
-Business type: Cafe and casual dining space  
-Location: Koramangala, Bangalore  
-Primary service: Cafe dining experience with food, drinks, desserts, and a relaxed creative atmosphere  
+Business name: BrightPath Coaching Centre  
+Business type: Local coaching and test preparation center  
+Location: Indiranagar, Bangalore  
+Primary service: Academic coaching, test preparation, study planning, and student mentoring  
 
 ## Target Customers
 
-- Students looking for a calm place to meet or study
-- Working professionals who want a relaxed cafe break
-- Friends planning casual meetups
-- Couples looking for a comfortable cafe setting
-- Artists, readers, and visitors who enjoy creative spaces
+- Class 9 to 12 students who need stronger academic support
+- College students preparing for entrance exams
+- Parents looking for structured coaching and progress updates
+- Students who need better study habits and exam confidence
+- Learners who prefer guided practice instead of self-study alone
 
 ## Customer Needs
 
-- A peaceful place away from busy city noise
-- Good food and drinks in a relaxed setting
-- A cafe suitable for conversations and slow afternoons
-- A location that feels memorable and worth revisiting
-- Clear website information before visiting
+- Clear explanation of difficult concepts
+- Structured study plans and regular practice
+- Exam-focused preparation
+- Doubt-solving support
+- Confidence before tests and board exams
+- Trustworthy communication for parents
 
 ## Brand Personality
 
-- Warm
-- Creative
-- Calm
-- Friendly
-- Local
-- Welcoming
+- Professional
+- Supportive
+- Clear
+- Reliable
+- Encouraging
+- Results-focused
 
 ## Main Value Proposition
 
-Dyu Art Cafe gives people in Koramangala a calm, creative cafe experience where food, conversations, and atmosphere come together naturally.
+BrightPath Coaching Centre helps students in Indiranagar build stronger concepts, better study habits, and exam confidence through structured coaching and personal guidance.
 
 ## Tone Direction
 
-Use friendly, simple, and inviting language. The copy should feel human and warm, not overly formal or sales-heavy.
+Use professional, supportive, and confidence-building language. The copy should sound trustworthy for parents and motivating for students.
 
 ## Website Goals
 
-- Help visitors quickly understand what makes the cafe special
-- Encourage people to visit the cafe
-- Build trust with clear, specific copy
-- Make the cafe feel suitable for casual meetups, work breaks, and relaxed conversations
+- Help parents and students quickly understand the coaching center's value
+- Encourage inquiries for classes and admissions
+- Build trust through clarity, structure, and student-focused messaging
+- Present the center as supportive, organized, and exam-ready
 
